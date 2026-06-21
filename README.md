@@ -1,6 +1,6 @@
 # FR2 — Parking-Induced Congestion Intelligence
 
-**Flipkart Fridlock Hackathon — Round 2 Submission**
+**Flipkart Gridlock Hackathon — Round 2 Submission**
 
 Live demo: https://fr2-n2sg.onrender.com/
 
